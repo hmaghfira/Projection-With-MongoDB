@@ -7,6 +7,7 @@ The goal of this repository is creating new collection from existing collection 
 This repository guides "How to create collection from exist collection". Tools that used in this case are :
 1. Jupyter Notebook.
 2. MongoDB Compass (GUI to access mongoDB) [download here](https://www.mongodb.com/download-center/compass).
+3. PyMongo (way to work with MongoDB from Python, dependencies was already written on ipynb file).
 3. Internet connection (except Telkomsel product. I dunno why it didn't work if use Telkomsel hehe).
 
 # Author
